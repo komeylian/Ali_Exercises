@@ -65,3 +65,13 @@ nomreh.append(a)
 
 
 print nomerh
+
+
+numbers = [1, 2, 3, 4, 5]
+even_numbers = [x if x % 2 == 0 else "Odd" for x in numbers]
+print(even_numbers)
+
+
+numbers = [1, 2, 3, 4, 5]
+even_numbers = [x for x in numbers if x % 2 == 0]
+print(even_numbers)
