@@ -1,3 +1,9 @@
+from colorama import Fore
+
+
+# print(F'{str(number).ljust(6)} {fprint(name).ljust(20)}  {fprint(mobile)} {Fore.RED}Add Nashood{Fore.WHITE} {MyTime}')
+
+
 a = []
 
 print(type(a))
@@ -50,3 +56,12 @@ print(a[4])
 for i in range (0,3):
     nnn = input "sdDad"
 '''
+for 1 ta 3
+a = input
+
+nomreh = []
+
+nomreh.append(a)
+
+
+print nomerh
